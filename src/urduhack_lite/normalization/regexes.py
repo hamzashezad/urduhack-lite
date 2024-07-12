@@ -3,7 +3,7 @@
 
 import re
 
-from src.urduhack_lite.urdu_characters import URDU_PUNCTUATIONS, URDU_DIACRITICS
+from urduhack_lite.urdu_characters import URDU_PUNCTUATIONS, URDU_DIACRITICS
 
 # Add spaces after ., if there is number then not Ex (9.00)
 _SPACE_AFTER_PUNCTUATIONS_RE = re.compile(
