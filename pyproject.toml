@@ -1,6 +1,6 @@
 [project]
 name = "urduhack-lite"
-version = "0.1.0"
+version = "0.1.1"
 description = "Natural Language Processing (NLP) library for Urdu language."
 authors = [
     { name = "Ikram Ali", email = "mrikram1989@gmail.com" }, # Original author
